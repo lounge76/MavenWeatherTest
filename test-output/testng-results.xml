@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="7473" started-at="2020-05-12T13:33:37Z" finished-at="2020-05-12T13:33:45Z">
+    <groups>
+    </groups>
+    <test name="MyMavenTest1" duration-ms="7473" started-at="2020-05-12T13:33:37Z" finished-at="2020-05-12T13:33:45Z">
+      <class name="MyTestNGClass">
+        <test-method status="PASS" signature="setup1()[pri:0, instance:MyTestNGClass@60addb54]" name="setup1" duration-ms="7422" started-at="2020-05-12T13:33:37Z" finished-at="2020-05-12T13:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="setup2()[pri:0, instance:MyTestNGClass@60addb54]" name="setup2" duration-ms="1" started-at="2020-05-12T13:33:45Z" finished-at="2020-05-12T13:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method status="PASS" signature="setup3()[pri:0, instance:MyTestNGClass@60addb54]" name="setup3" duration-ms="0" started-at="2020-05-12T13:33:45Z" finished-at="2020-05-12T13:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup3 -->
+        <test-method status="PASS" signature="setup4()[pri:0, instance:MyTestNGClass@60addb54]" name="setup4" duration-ms="0" started-at="2020-05-12T13:33:45Z" finished-at="2020-05-12T13:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup4 -->
+      </class> <!-- MyTestNGClass -->
+    </test> <!-- MyMavenTest1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
