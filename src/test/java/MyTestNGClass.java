@@ -17,7 +17,7 @@ public class MyTestNGClass {
         x.get("https://lounge76-weather-app.glitch.me/");
 
         //assertEquals method Parameters: Expected Value, Actual Value, Assertion Message
-        assertEquals("Weather App", x.getTitle(), "Title check failed!");
+        assertEquals("Weather App123", x.getTitle(), "Title check failed!");
 
 
         /*
